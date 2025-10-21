@@ -5,9 +5,4 @@ matplotlib
 scikit-learn
 statsmodels
 Pillow
-<<<<<<< HEAD
 plotly
-=======
-plotly
-
->>>>>>> d79374bf346d17b767c05fec8fe19da4374ddc83
