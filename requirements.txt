@@ -8,8 +8,7 @@ seaborn
 
 # Time series forecasting
 statsmodels
-ARIMA
-SARIMA
+pmdarima
 
 # Web app
 streamlit
