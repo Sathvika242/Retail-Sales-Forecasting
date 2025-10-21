@@ -17,7 +17,7 @@ st.title("🎯 Retail Sales Forecast Dashboard")
 # --------------------------------
 # LOAD DATA
 # --------------------------------
-CSV_PATH = r"D:\Kaggle\Walmart.csv"  # Change if needed
+CSV_PATH = r"Walmart.csv"  
 
 @st.cache_data
 def load_data():
