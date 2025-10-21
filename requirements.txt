@@ -1,0 +1,18 @@
+# Data handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Time series forecasting
+statsmodels
+ARIMA
+SARIMA
+
+# Web app
+streamlit
+
+# Date handling
+python-dateutil
